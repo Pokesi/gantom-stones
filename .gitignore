@@ -1,0 +1,6 @@
+src/.ipynb_checkpoints
+src/__pycache__
+src/.jovianrc
+.DS_Store
+.vscode
+src/images
