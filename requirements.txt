@@ -5,5 +5,5 @@ tqdm
 numpy
 discord
 pillow
-gunicorn
+
 
